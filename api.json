@@ -1,0 +1,18 @@
+[
+    {
+        "server_location": "🇦🇹 Austria",
+        "server_token": "vless://3cc6e849-088c-4d9e-bf0e-0aa6372b51c5@at2.v2vless.site:443?security=tls&encryption=none&type=ws&host=at2.v2vless.site&path=/vless&sni=at2.v2vless.site&fp=chrome#🇦🇹 Austria"
+    },
+    {
+        "server_location": "🇸🇬 Singapore",
+        "server_token": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206V0kwbTZoaUViWVlhY1A4ZHpERFZVeWhYOXA2cjR1ZHQ0K0hEQ1FRRVF1UT06QkhZbzVrTjdiRDA1Wm94MW52WjJaZmVWVW51d2F5K3RBNUZKendDWk03az1AMTUyLjQyLjIxNi4xNzI6ODA=#🇸🇬 Singapore"
+    },
+    {
+        "server_location": "🇺🇸 United State",
+        "server_token": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNakV4WkB1czEucHJveHlzb2Nrcy54eXo6ODM4OA==#🇺🇸 United State"
+    },
+    {
+        "server_location": "🇬🇧 United Kingdom",
+        "server_token": "vless://0593aa20-5e36-4af6-9045-a6f861c29890@uk1.v2vless.site:443?security=tls&encryption=none&type=ws&host=uk1.v2vless.site&path=/vless&sni=uk1.v2vless.site&fp=chrome#🇬🇧 United Kingdom"
+    }
+]
