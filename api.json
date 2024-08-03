@@ -1,34 +1,6 @@
 [
     {
-        "server_location": "🇦🇹 Austria",
-        "server_token": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR0ZqTmpNNUBhdDEuc3Nwcm94eS54eXo6ODM4OA==#🇦🇹 Austria"
-    },
-    {
         "server_location": "🇸🇬 Singapore",
-        "server_token": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206V0kwbTZoaUViWVlhY1A4ZHpERFZVeWhYOXA2cjR1ZHQ0K0hEQ1FRRVF1UT06QkhZbzVrTjdiRDA1Wm94MW52WjJaZmVWVW51d2F5K3RBNUZKendDWk03az1AMTUyLjQyLjIxNi4xNzI6ODA=#🇸🇬 Singapore"
-    },
-    {
-        "server_location": "🇨🇦 Canada",
-        "server_token": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaamRrTjJKaEBjYTEuc3Nwcm94eS54eXo6ODM4OA==#🇨🇦 Canada"
-    },
-    {
-        "server_location": "🇬🇧 United Kingdom",
-        "server_token": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOVEpsT1dabUB1azEuc3Nwcm94eS54eXo6ODM4OA==#🇬🇧 United Kingdom"
-    },
-    {
-        "server_location": "🇺🇸 United States",
-        "server_token": "vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_009761b@us2.vless.site:80?security=none&encryption=none&type=ws&host=us2.vless.site&path=/vless#🇺🇸 United States"
-    },
-    {
-        "server_location": "🇭🇰 Hong Kong",
-        "server_token": "vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_a2e5572@hk2.vless.site:80?security=none&encryption=none&type=ws&host=hk2.vless.site&path=/vless#🇭🇰 Hong Kong"
-    },
-    {
-        "server_location": "🇷🇺 Russia",
-        "server_token": "vmess://eyJuZXQiOiJ3cyIsInYiOiIyIiwiYWxwbiI6IiIsInNuaSI6InJ1Mi52bWVzcy5zaXRlIiwiZnAiOiJjaHJvbWUiLCJwb3J0IjoiNDQzIiwiaGVhZGVyVHlwZSI6IiIsImlkIjoiSV9Mb3ZlX/Cfh7Xwn4e4X1NTSE1heF8wNGZmNmI5IiwidHlwZSI6Im5vbmUiLCJwcyI6IvCfh7fwn4e6IFJ1c3NpYSIsImFkZCI6InJ1Mi52bWVzcy5zaXRlIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNlcnZpY2VOYW1lIjoibm9uZSIsImhvc3QiOiJydTIudm1lc3Muc2l0ZSIsInBhdGgiOiJcL3ZtZXNzI0RPTlQtRk9SR0VULVRPLVNVUFBPUlQtU1NITUFYLk5FVC1UTy1LRUVQLVRISVMtU0VSVkVSLUFMSVZFIn0="
-    },
-    {
-        "server_location": "🇩🇪 Germany",
-        "server_token": "trojan://0f9dc513-e844-4764-b00c-9bdb081afc4d@de1.trojanvpn.xyz:443?security=tls&sni=de1.trojanvpn.xyz&fp=chrome&type=ws&path=/#🇩🇪 Germany"
+        "server_token": "ss://YWVzLTI1Ni1nY206elZsUnFGamFMdDhuSzNKc0NWd29kVCtmSDU4bHhvVkVpSHJkRmFiQkxNaz1AMTQ2LjE5MC41LjE2OTo0NTM5MA==#🇸🇬 Singapore"
     }
 ]
