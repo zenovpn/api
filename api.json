@@ -4,8 +4,8 @@
         "server_token": "ss://YWVzLTI1Ni1nY206elZsUnFGamFMdDhuSzNKc0NWd29kVCtmSDU4bHhvVkVpSHJkRmFiQkxNaz1AMTQ2LjE5MC41LjE2OTo0NTM5MA==#🇸🇬 Singapore"
     },
     {
-        "server_location": "🇸🇬 Singapore",
-        "server_token": "vmess://eyJhZGQiOiIxNTIuNDIuMjAwLjU4IiwiYWlkIjoiMCIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZWU2NTk1NjEtY2IyNS00ZjU4LWFjMWItMTlkZmVlN2ZkODhlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7jwn4esIFNpbmdhcG9yZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIxNjIuMTU5LjEzMC4xMSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+        "server_location": "🇸🇬 Singapore - S[1]",
+        "server_token": "vless://a0755d44-8eb7-4fe7-9ba0-d30ffe212f27@152.42.233.217:443?security=tls&encryption=none&type=tcp&fp=chrome&headerType=none&alpn=h2,h3,http/1.1#🇸🇬 Singapore - S[1]"
     },
     {
         "server_location": "🇸🇬 Singapore",
