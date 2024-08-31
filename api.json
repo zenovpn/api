@@ -6,13 +6,5 @@
     {
         "server_location": "🇸🇬 Singapore - S[2]",
         "server_token": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5TlZjSlRaVzcvdkd0Znl3Z090MW5FNXpOWFZDcm9TUFRwNVRBNFY1aitBPUAxMy4yMjguMzkuNzQ6NDk3MjI=#🇸🇬 Singapore - S[2]"
-    },
-    {
-        "server_location": "🇸🇬 Singapore",
-        "server_token": "vless://a9d08834-a108-4412-9446-2902134f8d4b@159.223.88.52:443?security=tls&encryption=none&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=google.com#%F0%9F%87%B8%F0%9F%87%AC+Singapore"
-    },
-    {
-        "server_location": "🇸🇬 Singapore",
-        "server_token": "vless://7efb72da-1baa-4676-9a46-68b5bd1df035@139.59.237.96:443?security=tls&encryption=none&alpn=h3,h2,http/1.1&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC+Singapore"
     }
 ]
