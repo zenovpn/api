@@ -5,6 +5,6 @@
     },
     {
         "server_location": "🇸🇬 Singapore - S[2]",
-        "server_token": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5TlZjSlRaVzcvdkd0Znl3Z090MW5FNXpOWFZDcm9TUFRwNVRBNFY1aitBPUAxMy4yMjguMzkuNzQ6NDk3MjI=#🇸🇬 Singapore - S[2]"
+        "server_token": "trojan://21dc16c1-552b-491f-98fe-d6cc00ed5be8@152.42.250.198:443?security=tls&sni=152.42.250.198&fp=chrome&headerType=none&type=tcp#🇸🇬 Singapore - S[2]"
     }
 ]
