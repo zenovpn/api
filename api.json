@@ -1,10 +1,10 @@
 [
     {
-        "server_location": "🇸🇬 Singapore S[1]",
-        "server_token": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxSlh4RDZwT0hjOXFzcWNtMDFaaEhjQDY4LjE4My4xODAuMTQ4OjUwNzk=#🇸🇬 Singapore S[1]"
+        "server_location": "🇦🇹 Austria - S[1]",
+        "server_token": "vless://e7b04b46-ce50-4504-abef-1fdce0f0d93f@at3.v2vless.site:443?security=tls&encryption=none&type=grpc&sni=at3.v2vless.site&fp=chrome&serviceName=vless-grpc#🇦🇹 Austria - S[1]"
     },
     {
-        "server_location": "🇺🇸 United State S[1]",
-        "server_token": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpySHFJeFJrV1lTaTJGNkVUWjd5REw0QDE0Mi45My4yNDMuNDE6MzQwODM=#🇺🇸 United State S[1]"
+        "server_location": "🇦🇹 Austria - S[2]",
+        "server_token": "vless://e7b04b46-ce50-4504-abef-1fdce0f0d93f@at3.v2vless.site:443?security=tls&encryption=none&type=ws&host=at3.v2vless.site&path=/vless&sni=at3.v2vless.site&fp=chrome#🇦🇹 Austria - S[2]"
     }
 ]
